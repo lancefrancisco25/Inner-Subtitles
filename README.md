@@ -1,5 +1,5 @@
 # InnerSubtitles
- A Javascript library that reads subtitle and displays it outside of the video
+Inner Subtitles is a Javascript collection used to manipulate your subtitles beyond what your browser can do. 
 
 > **Installation**
 
